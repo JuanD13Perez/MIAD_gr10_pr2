@@ -8,7 +8,7 @@ En este repositorio se encuentra la documentación del proyecto 2 del grupo 10 p
 
 Se disponibiliza una [API](http://18.116.37.110:5000/) que permite al usuario ingresar un texto que sea una descripción (plot) de una película y obtener la predicción de los géneros de pelicula más probables de dicha descripción.
 
-La descripción debe ponerse entre comillas simples, en inglés.
+La descripción debe ponerse entre comillas simples, en inglés. Sin embargo, en el siguiente [video](https://www.youtube.com/watch?v=K440L3_Ke_U) se encuentra una demostraciónd el funcionamiento de la API.
 
 ### Ingreso a la API
 
@@ -39,6 +39,8 @@ Como tal las probabilidades no suman 100% porque el modelo siempre le asigna una
 Solo se consideran los siguientes 24 géneros:
 
 ['Action','Adventure','Animation','Biography','Comedy','Crime','Documentary','Drama','Family','Fantasy','Film-Noir','History','Horror','Music','Musical','Mystery','News','Romance','Sci-Fi','Short','Sport','Thriller','War','Western']
+
+Aquí dejamos el link de la [página de Imdb](https://www.imdb.com/search/keyword/?keywords=plot) con descripciones de peliculas y sus respecivos géneros.
 
 
 ## Nota de funcionamiento
